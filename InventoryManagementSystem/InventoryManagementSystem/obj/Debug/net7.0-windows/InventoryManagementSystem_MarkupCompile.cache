@@ -1,0 +1,20 @@
+﻿InventoryManagementSystem
+
+
+winexe
+C#
+.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\
+InventoryManagementSystem
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\App.xaml
+181517989106
+
+211052869767
+2301576235244
+CategoryUserControl.xaml;CustomerOrderProductsUserControl.xaml;CustomerRemainUserControl.xaml;CustomerUserControl.xaml;InventoryUserControl.xaml;MainWindow.xaml;ProductUserControl.xaml;ReportsUserControl.xaml;ReturnCustomerBillUserControl.xaml;ReturnSypplierBillUserControl.xaml;ShowCustomerBillDetailesUserControl.xaml;ShowCustomersBillsUserControl.xaml;ShowSupplierBillDetailsUserControl.xaml;ShowSuppliersBillsUserControl.xaml;SupplierProductBillsUserControl.xaml;SupplierRemainUserControl.xaml;SupplierUserControl.xaml;View\LoginView.xaml;
+
+False
+
